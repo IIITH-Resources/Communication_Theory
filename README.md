@@ -1,16 +1,17 @@
-# Course Name
-## Professor : Full Name of Professor/s
+# Communication Theory
+## Professor : Praful Mankar
 
-Credits : x
+Credits : 4
 
-Lectures : x
+Lectures : 
 
-Tutorial : x
+Tutorial : 
 
-Practical : x
+Practical : 0
 
-<!---
+
 #### Grading Scheme
 
-![Grades Scheme](./Grading/Marks.png)
---->
+![Grades Scheme](./Grading/CTgrades.jpg)
+
+`Note:` The surprize quiz was eventually cancelled due to lack of time and the weightage was transferred to Endsem exam. 
